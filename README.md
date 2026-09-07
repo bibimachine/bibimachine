@@ -5,7 +5,7 @@
 #### 🌱 正在学习具身、嵌入式、模型推理、运动学、动力学... 
 
 - 项目ing:
-  - Nav2导航小车: Ros2 / microRos + Ardiuno(Esp32) + Nav2 (WSL建图有点问题...目前当遥控车逗🐱)
+  - Nav2导航小车: Ros2 / microRos + Ardiuno(Esp32) + Nav2 (WSL上用rviz显示slamtool发布的map有点问题...目前当遥控车逗🐱)
   - [SO101接gazebo](https://github.com/bibimachine/so101_moveit_gazebo)
 - 玩具ing:
   - [Obsidian的kimi插件](https://github.com/bibimachine/kimi-claudian)
