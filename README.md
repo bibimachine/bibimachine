@@ -4,10 +4,11 @@
 
 #### 🌱 正在学习具身、嵌入式、模型推理、运动学、动力学... 
 
-- 实践项目ing：
+- 项目ing:
   - [SO101接gazebo](https://github.com/bibimachine/so101_moveit_gazebo)
-  - [SO101接mojuco](https://github.com/bibimachine/so101_moveit_gazebo)
-  - [具身数据格式](https://github.com/bibimachine/so101_moveit_gazebo)
+- 玩具ing:
+  - [Obsidian的kimi插件](https://github.com/bibimachine/kimi-claudian)
+  - [想复习自己笔记的复习软件](https://github.com/bibimachine/review-anything)
 
 
 #### 🛠️ 技术栈: Python / C++ / ROS2 / Rviz2 / Scikit‑Learn / PyTorch / Wireshark
