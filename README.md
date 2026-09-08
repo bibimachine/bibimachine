@@ -2,11 +2,12 @@
 
 **当前打算 -- 🤖**
 
-#### 🌱 正在学习具身、嵌入式、模型推理、运动学、动力学... 
+#### 🌱 正在学习具身、嵌入式、模型推理、Mojoco、运动学、动力学... 
 
-- 项目ing:
+- 学习实践ing:
   - Nav2导航小车: Ros2 / microRos + Ardiuno(Esp32) + Nav2 (WSL上用rviz显示slamtool发布的map有点问题...目前当遥控车逗🐱)
   - [SO101接gazebo](https://github.com/bibimachine/so101_moveit_gazebo)
+  - [rosbag转lerobot/hdf5/rlds](https://github.com/bibimachine/record_transfer)
 - 玩具ing:
   - [Obsidian的kimi插件](https://github.com/bibimachine/kimi-claudian)
   - [想复习自己笔记的复习软件](https://github.com/bibimachine/review-anything)
