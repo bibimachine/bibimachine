@@ -14,7 +14,7 @@
 
 #### 🛠️ 技术栈: Python / C++ / ROS2 / Rviz2 / Scikit‑Learn / PyTorch / Wireshark
 #### 🎓 熟悉Level: 网络流量or协议分析 / 网络流量特征 / LLM Agent基本原理 / 多线程
-#### 📖 了解level(学习中++): Moveit / Nav / VLA / 具身数据 / CAN / EtherCAT / Arduino / ONNX
+#### 📖 了解level 📈: Moveit / Nav / VLA / 具身数据 / CAN / EtherCAT / Arduino / ONNX
 #### 📫 How to reach me: 15601271600@163.com
 
 #### 🚀 工作经历
