@@ -2,7 +2,7 @@
 
 **当前打算 -- 🤖**
 
-#### 🌱 正在学习具身、嵌入式、模型推理、Mojoco、运动学、动力学... 
+#### 🌱 正在学习具身、模型推理、Agent、Mojoco、运动学、动力学... 
 
 - 学习实践ing:
   - Nav2导航小车: Ros2 / microRos + Ardiuno(Esp32) + Nav2 (WSL上用rviz显示slamtool发布的map有点问题...目前当遥控车逗🐱)
