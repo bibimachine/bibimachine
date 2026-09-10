@@ -7,6 +7,7 @@
 - 学习实践ing:
   - Nav2导航小车: Ros2 / microRos + Ardiuno(Esp32) + Nav2 (WSL上用rviz显示slamtool发布的map有点问题...目前当遥控车逗🐱)
   - [SO101接gazebo](https://github.com/bibimachine/so101_moveit_gazebo)
+  - [SO101接mujoco](https://github.com/bibimachine/so101_moveit_mujoco)
   - [rosbag转lerobot/hdf5/rlds](https://github.com/bibimachine/record_transfer)
 - 玩具ing:
   - [Obsidian的kimi插件](https://github.com/bibimachine/kimi-claudian)
