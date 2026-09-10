@@ -9,6 +9,7 @@
   - [SO101接gazebo](https://github.com/bibimachine/so101_moveit_gazebo)
   - [SO101接mujoco](https://github.com/bibimachine/so101_moveit_mujoco)
   - [rosbag转lerobot/hdf5/rlds](https://github.com/bibimachine/record_transfer)
+  - [xbox手柄控制](https://github.com/bibimachine/xbox_wsl_control)
 - 玩具ing:
   - [Obsidian的kimi插件](https://github.com/bibimachine/kimi-claudian)
   - [想复习自己笔记的复习软件](https://github.com/bibimachine/review-anything)
